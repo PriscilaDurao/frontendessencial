@@ -30,7 +30,7 @@ h2 {
     font-size: 145%;
     display: inline;
     float: right;
-    margin-right: 19%;
+    margin-right: 22%;
     margin-top: 8%;
 }
 
@@ -136,8 +136,8 @@ li a:hover {
 
 .logofinalimg {
     position: absolute;
-    width: 230px;
-    height: 190px;
-    margin: 31.5% 16%;
+    width: 250px;
+    height: 220px;
+    margin: 32% 17%;
 
 }
