@@ -1,0 +1,143 @@
+body {
+    width: 100vw;
+    height: 90vh;
+    margin: 0;
+}
+
+.escrita1 {
+    background-color: rgb(200, 181, 199);
+    height: 25%;
+    width: 100%;
+    position: absolute;
+    margin: 0px auto;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 200%;
+    display: inline;
+    float: right;
+    margin-right: 19%;
+    margin-top: 4.5%;
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 145%;
+    display: inline;
+    float: right;
+    margin-right: 19%;
+    margin-top: 8%;
+}
+
+.imglogo {
+    position: absolute;
+    width: 210px;
+    height: 185px;
+    margin: 5% 85%;
+}
+
+.containerum {
+    background-color: rgb(242, 242, 242);
+    position: absolute;
+    height: 350%;
+    width: 40%;
+    margin: 8% 43%;
+    border-radius: 15px;
+}
+
+.objetivo {
+    color: rgba(63, 62, 62, 0.905);
+    font-family: 'Times New Roman';
+    font-size: 180%;
+    display: inline-block;
+    margin: 8% 10%;
+}
+
+p a{
+    color:  rgba(82, 43, 43, 0.919);
+    display: block;
+    margin-left: 32%;
+}
+
+.containerdois {
+    background-color: rgb(242, 242, 242);
+    position: absolute;
+    height: 150%;
+    width: 27%;
+    margin: 10% 10%;
+    border-radius: 10px;
+
+}
+
+.links {
+    font-family: 'Times New Roman';
+    font-size: 150%;
+    display: block;
+    margin: 8% 10%;
+}
+
+.conteúdo {
+    color: rgba(63, 62, 62, 0.905);
+    font-family: 'Times New Roman';
+    font-size: 175%;
+    display: inline-block;
+    margin: 3% 10%;
+}
+.titulo {
+    color:  rgba(82, 43, 43, 0.919);
+    display: block;
+    margin: 1% 0%;
+}
+
+.link1 a{
+    color: blue;
+    display:inline-block;
+    font-size: 150%;
+    margin-left: 25%;
+    margin-top: 0%;    
+    text-decoration:underline;
+}
+
+
+.logofinal {
+    background-color: rgb(242, 242, 242);
+    position: absolute;
+    height: 150%;
+    width: 27%;
+    margin: 31.5% 10%;
+    border-radius: 10px;
+    display: block;
+
+}
+
+h3 {
+    font-family: 'Times New Roman';
+    font-size: 120%;
+    margin: 55% 10%;
+    display: block;
+    text-align: center;
+}
+
+li a {
+    color: rgba(63, 62, 62, 0.905);
+    text-decoration: none;
+    display: inline;
+    margin: 10px 25px;
+}
+
+li a:hover {
+    color: blue;
+}
+
+.logofinalimg {
+    position: absolute;
+    width: 230px;
+    height: 190px;
+    margin: 31.5% 16%;
+
+}
